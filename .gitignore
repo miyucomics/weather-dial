@@ -1,0 +1,7 @@
+.cache/
+.pio/
+.clang-format
+.clangd
+./daemon/.venv
+./daemon/__pycache__/
+compile_commands.json
